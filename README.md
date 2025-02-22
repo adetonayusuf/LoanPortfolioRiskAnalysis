@@ -95,4 +95,4 @@ The data analysis for this project will be carried out Power BI.
 ### Project Activities
 I imported the csv files into Power Query then carried necessary transformation like data cleaning, creating some needed columns for the analysis, created date table. Below is my Power query
 
-!Power Query[https://github.com/adetonayusuf/LoanPortfolioRiskAnalysis/blob/main/Daiz%20Bank%20-%20Power%20Query.png]
+![Power Query](https://github.com/adetonayusuf/LoanPortfolioRiskAnalysis/blob/main/Daiz%20Bank%20-%20Power%20Query.png)
