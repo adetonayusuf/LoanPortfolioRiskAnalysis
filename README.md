@@ -96,3 +96,50 @@ The data analysis for this project will be carried out Power BI.
 I imported the csv files into Power Query then carried necessary transformation like data cleaning, creating some needed columns for the analysis, created date table. Below is my Power query
 
 ![Power Query](https://github.com/adetonayusuf/LoanPortfolioRiskAnalysis/blob/main/Daiz%20Bank%20-%20Power%20Query.png)
+
+Once I was done with Data cleaning and transformation, i loaded the tables into Power BI, then carried out data modelling by creating relationships between the loan dataset & othet sub tables and date table
+
+![Modelling](https://github.com/adetonayusuf/LoanPortfolioRiskAnalysis/blob/main/Daiz%20Bank%20-%20Modelling.png)
+
+I proceeded to carry the needed analysis by creating dashboards 
+
+![Loan Portfolio Overview](https://github.com/adetonayusuf/LoanPortfolioRiskAnalysis/blob/main/Daiz%20Bank%20-%20Loan%20Portfolio%20Overview.png)
+
+
+![Loan Status & Type Analysis](https://github.com/adetonayusuf/LoanPortfolioRiskAnalysis/blob/main/Daiz%20Bank%20-%20Loan%20Status%20%26%20Type%20Analysis.png)
+
+### Insights
+- Repayment Health: A repayment rate of 61.8% might be considered healthy depending on industry benchmarks. However, a delinquency rate of 21% and a default rate of 17.2%   
+  are concerning, indicating a significant portion of the loan portfolio is at risk.
+- The most loan and interest was seen in 2018, the most borrowed product is mortgage
+- At $7,121,592 35-41 had the highest sum loan amount and was 17.5% higher than above 40, which had the lowest sum loan amount at $6,060,782
+  35-41 accounted for 26.29% of sum loan amount
+- In Arrears had $5,322,866 sum loan amount, Paid off had $16,790,481 and Defaulted $4,973,421, signifying that a number of borrowers has paid off their debt
+- Mortgage is the most sought loan type followed by commercial loan
+- Borrowers with credit score of 633-743 delayed in payment most and defaulted the most.
+- Highest deaulted sum was in 2019
+- Loan type with the highesr rate of default was commercial loan for 2018 and 2019 and mortgage 2020 and 2021
+
+### Recommendation
+- Enhanced Credit Score:The data indicates the borrowers with credit score between 633-743 have the highest delay and default rates. It may be beneficial to review and 
+  adjust the credit scoring model to better prdict risk among borrowers within this range.
+
+- Targeted Risk Management for Loan Types: Given the commercial loan had the highest rate of default iin 2018 and 2019and mortgage in 2020 & 2021, consider implementing 
+  more stringent underwriting criteria for these loan types or revising their interest rate to better reflect the associated risk.
+
+- Age Grouping Analysis: The age group o 35-41 has the highest sum loan amount and hence might be a critical demographic for business. However, ensure that this does not 
+  lead to concentration risk. Diversifying the portfolio across different age groups could mitigate the risk.
+
+- Product Focus Shift: With mortgages being the most borrowed product, ensure that the loan-to-value(LTV)  rates are conservative to reduce potential losses, especially if 
+  property values decline.
+
+- Delinquency and Default Intervention: The delinquency rate of 21% and a default rate of 17.2% are high. Early intervention strategies such as proactive communication and 
+  restructuring options could help reduce these rates.
+
+- Review Interest Rates: Since 2019 had the most loan and interest, review the interest rates from that year to determine if they're competitive and sustainable 
+  particularly given the high default rate.
+
+- Loan Performance Monitoring: Regularly monitoring loans that are "In Arrears" to prevent them from moving into default. Offer assistance such as repayment plans or n 
+  financial counselling to help borrowers stay on track
+
+- Financial Education: Offer financial literacy programs to borrowers, particularly in high risk categories to help them understand the importance of maintaining a good credit score and managing their loan effectively
