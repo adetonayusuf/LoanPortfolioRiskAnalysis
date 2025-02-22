@@ -34,23 +34,41 @@ The bank has a database with 1500 rows of expense information for analysis, with
 
  
 ✓ Loan ID: A unique identifier for each loan in the portfolio.
+
 ✓ Borrower ID: A unique identifier for each borrower associated with the loan.
+
 ✓ Borrower Name: The full name of the borrower.
+
 ✓ Gender: The gender of the borrower.
+
 ✓ Borrower Age: The age of the borrower.
+
 ✓ Marital Status: The marital status of the borrower.
+
 ✓ Borrower Address: The address of the borrower.
+
 ✓ Borrower Email: The email address of the borrower.
+
 ✓ Borrower Phone Number: The phone number of the borrower.
+
 ✓ Loan Amount: The amount of money borrowed by the borrower.
+
 ✓ Loan Type: The type of loan, such as personal loan, mortgage, auto loan, or commercial loan.
+
 ✓ Interest Rate: The annual interest rate charged on the loan.
+
 ✓ Loan Term: The duration of the loan, in years.
+
 ✓ Loan Status: The status of the loan, such as "Paid Off," "Defaulted," or "In Arrears."
+
 ✓ Credit Score: The credit score of the borrower, which reflects their creditworthiness.
+
 ✓ Income: The income of the borrower.
+
 ✓ Employment Status: The employment status of the borrower, such as "Employed," "Self-Employed," or "Unemployed."
+
 ✓ Loan Origination Date: The date when the loan was initially issued.
+
 ✓ Loan Paid Date: The date when the loan was paid off or settled.
 
 ### Tech Stack
@@ -58,8 +76,11 @@ The data analysis for this project will be carried out Power BI.
 
 
 ✓ Data Importation: Import the data into the environment.
+
 ✓ Data Cleaning and Manipulation
+
 ✓ Data Exploration and Analysis.
+
 ✓ Data Visualization.
 
 ### Project Scope
