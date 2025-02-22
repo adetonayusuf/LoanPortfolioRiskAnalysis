@@ -91,3 +91,8 @@ The data analysis for this project will be carried out Power BI.
 ✓ Data Visualization: Power BI interactive dashboards and visualization capabilities enable the creation of charts, graphs, and heatmaps to uncover patterns and trends within the loan portfolio data.
 
 ✓ Reporting & Recommendation: Power BI facilitates the creation of customized reports for stakeholders, including bank executives, risk management teams, and regulators. These reports provide actionable insights and support data-driven decision-making.
+
+### Project Activities
+I imported the csv files into Power Query then carried necessary transformation like data cleaning, creating some needed columns for the analysis, created date table. Below is my Power query
+
+!Power Query[https://github.com/adetonayusuf/LoanPortfolioRiskAnalysis/blob/main/Daiz%20Bank%20-%20Power%20Query.png]
